@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,jlcpcb,$12.00,$12.00,https://jlcpcb.com
+Esp32 - c3 super mini,2,seeedstudio,$5.00,$10.00,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?srsltid=AYCX9vJnmYxC5SZS1p50plc10E41pIXfuOUt_GXMoMQDEUMMQ-dFv9Q3
 Estimated total shipping,1,,,$0.00,
